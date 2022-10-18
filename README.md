@@ -1,5 +1,11 @@
+
+<p align="center">
+  <a href="https://codesandbox.io">
+    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Manoj Rathod</h1>
-<h3 align="center">A very passionate and enthusiastic frontend developer</h3>
+<h3 align="center">A Mern Stack Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojrathod571&label=Profile%20views&color=0e75b6&style=flat" alt="manojrathod571" /> </p>
 
